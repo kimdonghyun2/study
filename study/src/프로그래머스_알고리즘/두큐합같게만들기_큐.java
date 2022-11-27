@@ -2,7 +2,7 @@ package 프로그래머스_알고리즘;
 
 import java.util.*;
 
-public class 두큐합같게만들기 {
+public class 두큐합같게만들기_큐 {
 
 	class Solution {
 		public int solution(int[] queue1, int[] queue2) {
